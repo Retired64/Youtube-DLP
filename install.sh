@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -o youtube https://cdn.discordapp.com/attachments/1120450661050499083/1176764841558552626/youtube
+curl -o 
 sleep 1
 echo 'export PATH="$HOME/.bin:$PATH"' >> ~/.bashrc
 mkdir -p ~/.bin
